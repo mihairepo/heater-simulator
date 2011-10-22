@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jnlp spec="1.0+" 
     codebase="http://heater-simulator.googlecode.com/files/" 
-    href="dynamictree-webstart.jnlp">
+    href="HeaterSimulator1_0.jnlp">
     <information>
         <title>Heater Simulator v1.0</title>
         <vendor>Pieter Agten</vendor>
