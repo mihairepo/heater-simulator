@@ -1,4 +1,4 @@
-package net.agten.reprap.heatersimulator.domain;
+package net.agten.heatersimulator.domain;
 
 
 /**

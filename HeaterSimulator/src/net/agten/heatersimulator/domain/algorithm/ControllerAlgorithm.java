@@ -1,4 +1,4 @@
-package net.agten.reprap.heatersimulator.domain.algorithm;
+package net.agten.heatersimulator.domain.algorithm;
 
 public interface ControllerAlgorithm {
 	short nextValue(short curAdc);

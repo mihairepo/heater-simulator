@@ -1,4 +1,4 @@
-package net.agten.reprap.heatersimulator.controller.dto;
+package net.agten.heatersimulator.controller.dto;
 
 public class SimulationParameters {
 	private int nbSeconds = 300;

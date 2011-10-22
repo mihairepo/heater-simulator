@@ -1,4 +1,4 @@
-package net.agten.reprap.heatersimulator.controller.dto;
+package net.agten.heatersimulator.controller.dto;
 
 public class PID32Parameters {
 	private int pGain = 100;

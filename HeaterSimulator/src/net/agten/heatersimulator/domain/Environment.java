@@ -1,4 +1,4 @@
-package net.agten.reprap.heatersimulator.domain;
+package net.agten.heatersimulator.domain;
 
 /**
  * This class represents the environment around the heater. The environment has

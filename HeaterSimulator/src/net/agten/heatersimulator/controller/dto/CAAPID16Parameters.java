@@ -1,4 +1,4 @@
-package net.agten.reprap.heatersimulator.controller.dto;
+package net.agten.heatersimulator.controller.dto;
 
 public class CAAPID16Parameters {
 	private short pGain = 25;

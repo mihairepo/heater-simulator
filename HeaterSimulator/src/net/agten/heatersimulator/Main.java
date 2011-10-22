@@ -1,6 +1,6 @@
-package net.agten.reprap.heatersimulator;
+package net.agten.heatersimulator;
 
-import net.agten.reprap.heatersimulator.gui.GraphWindow;
+import net.agten.heatersimulator.gui.GraphWindow;
 
 public class Main {
 	public final static String NAME = "PID Controller Simulator";

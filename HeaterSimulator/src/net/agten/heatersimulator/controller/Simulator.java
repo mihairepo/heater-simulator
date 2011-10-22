@@ -1,16 +1,16 @@
-package net.agten.reprap.heatersimulator.controller;
+package net.agten.heatersimulator.controller;
 
-import net.agten.reprap.heatersimulator.controller.dto.CAAPID16Parameters;
-import net.agten.reprap.heatersimulator.controller.dto.CAAPID32Parameters;
-import net.agten.reprap.heatersimulator.controller.dto.PID32Parameters;
-import net.agten.reprap.heatersimulator.controller.dto.SimulationParameters;
-import net.agten.reprap.heatersimulator.domain.Environment;
-import net.agten.reprap.heatersimulator.domain.Heater;
-import net.agten.reprap.heatersimulator.domain.Thermistor;
-import net.agten.reprap.heatersimulator.domain.algorithm.CAAPID16;
-import net.agten.reprap.heatersimulator.domain.algorithm.CAAPID32;
-import net.agten.reprap.heatersimulator.domain.algorithm.ControllerAlgorithm;
-import net.agten.reprap.heatersimulator.domain.algorithm.PID32;
+import net.agten.heatersimulator.controller.dto.CAAPID16Parameters;
+import net.agten.heatersimulator.controller.dto.CAAPID32Parameters;
+import net.agten.heatersimulator.controller.dto.PID32Parameters;
+import net.agten.heatersimulator.controller.dto.SimulationParameters;
+import net.agten.heatersimulator.domain.Environment;
+import net.agten.heatersimulator.domain.Heater;
+import net.agten.heatersimulator.domain.Thermistor;
+import net.agten.heatersimulator.domain.algorithm.CAAPID16;
+import net.agten.heatersimulator.domain.algorithm.CAAPID32;
+import net.agten.heatersimulator.domain.algorithm.ControllerAlgorithm;
+import net.agten.heatersimulator.domain.algorithm.PID32;
 
 import org.jfree.data.xy.XYDataset;
 import org.jfree.data.xy.XYSeries;

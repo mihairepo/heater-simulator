@@ -1,4 +1,4 @@
-package net.agten.reprap.heatersimulator.domain.algorithm;
+package net.agten.heatersimulator.domain.algorithm;
 
 /**
  * This class implements a proportional–integral–derivative (PID) algorithm for

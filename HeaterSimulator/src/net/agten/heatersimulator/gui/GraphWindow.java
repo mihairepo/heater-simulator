@@ -1,4 +1,4 @@
-package net.agten.reprap.heatersimulator.gui;
+package net.agten.heatersimulator.gui;
 
 import java.awt.BorderLayout;
 import java.awt.CardLayout;
@@ -25,12 +25,12 @@ import javax.swing.border.BevelBorder;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import net.agten.reprap.heatersimulator.Main;
-import net.agten.reprap.heatersimulator.controller.Simulator;
-import net.agten.reprap.heatersimulator.controller.dto.CAAPID16Parameters;
-import net.agten.reprap.heatersimulator.controller.dto.CAAPID32Parameters;
-import net.agten.reprap.heatersimulator.controller.dto.PID32Parameters;
-import net.agten.reprap.heatersimulator.controller.dto.SimulationParameters;
+import net.agten.heatersimulator.Main;
+import net.agten.heatersimulator.controller.Simulator;
+import net.agten.heatersimulator.controller.dto.CAAPID16Parameters;
+import net.agten.heatersimulator.controller.dto.CAAPID32Parameters;
+import net.agten.heatersimulator.controller.dto.PID32Parameters;
+import net.agten.heatersimulator.controller.dto.SimulationParameters;
 
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
