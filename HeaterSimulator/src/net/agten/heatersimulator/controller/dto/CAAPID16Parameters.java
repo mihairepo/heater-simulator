@@ -1,9 +1,9 @@
 package net.agten.heatersimulator.controller.dto;
 
 public class CAAPID16Parameters {
-	private short pGain = 25;
+	private short pGain = 18;
 	private short iGain = 1;
-	private short dGain = 25;
+	private short dGain = 30;
 	private short outputDivisor = -16;
 	
 	public short getpGain() {

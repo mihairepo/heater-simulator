@@ -7,7 +7,7 @@ public class SimulationParameters {
 	private double environmentTemperature = 20d;
 	
 	private double heaterPower = 12d*12d/6.8d;
-	private double heaterThermalMass = 4.0d;
+	private double heaterThermalMass = 1.0d;
 	private double heaterHeatTransferCoeffient = 0.02d;
 	
 	private int thermistorLag = 5;

@@ -206,7 +206,7 @@ public class GraphWindow {
 				params.setHeaterPower(newValue);
 			}
 		}));
-		heaterPanel.add(createSliderPanel("Thermal mass:", params.getHeaterThermalMass(), 1, 100,
+		heaterPanel.add(createSliderPanel("Thermal mass:", params.getHeaterThermalMass(), 0, 100, 10,
 				new ValueChangedAction() {
 			@Override
 			public void valueChanged(double newValue) {
